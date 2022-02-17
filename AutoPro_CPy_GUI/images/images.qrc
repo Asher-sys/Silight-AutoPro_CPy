@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+    <file>water.jpg</file>
+    <file>bat.ico</file>
+    <file>button.png</file>
+    <file>download.png</file>
+  </qresource>
+</RCC>
